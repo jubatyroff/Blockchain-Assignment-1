@@ -2,7 +2,7 @@
 Implementing a Basic Blockchain with Merkle Tree
 
 ## 1. Investigate Blockchain Principles
-There are are surces I read and used for practicing:
+There are are sources I read and used for practicing:
 * https://www.simplilearn.com/tutorials/blockchain-tutorial/merkle-tree-in-blockchain
 * https://www.devlane.com/blog/implementing-a-blockchain-with-javascript
 * https://medium.com/coinmonks/building-a-blockchain-using-javascript-ac75d1b2af23
